@@ -6,7 +6,7 @@ An AI-powered classroom automation system designed to optimize attendance tracki
 
 Backend: PHP, MySQL
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript, laravel
 
 Database: MySQL
 
