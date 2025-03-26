@@ -65,4 +65,4 @@ Want to improve this project? Feel free to fork & submit PRs!
 
 📩 Contact
 
-For queries, reach out to: [Your Email]
+For queries, reach out to: rgokulrajias@gmail.com
