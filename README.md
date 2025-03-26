@@ -6,7 +6,7 @@ An AI-powered classroom automation system designed to optimize attendance tracki
 
 Backend: PHP, MySQL
 
-Frontend: HTML, CSS, JavaScript, laravel
+Frontend: HTML, CSS, JavaScript
 
 Database: MySQL
 
@@ -24,8 +24,11 @@ Cloud Services: Firebase for real-time notifications
 
 ✅ Secure Role-Based Access – Admin, Faculty, and Student login system.
 
+📚 Download Full Project: Google Drive Link
 
 🛠️ Installation Guide
+
+📚 Download Full Project: 
 
 1️⃣ Clone the Repository
 
@@ -62,5 +65,4 @@ Want to improve this project? Feel free to fork & submit PRs!
 
 📩 Contact
 
-For queries, reach out to:
-
+For queries, reach out to: [Your Email]
