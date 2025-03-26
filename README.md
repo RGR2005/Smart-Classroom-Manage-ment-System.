@@ -1,3 +1,7 @@
+Tha project is divided into three parts in Github so the Full Project link below 👇👇👇👇
+
+📚 Download Full Project: [Google Drive Link](https://drive.google.com/file/d/1yPhITPcn335K9GLo1VWZmGLRlqgb-ePT/view?usp=sharing)
+
 🏰 Smart Classroom Management System
 
 An AI-powered classroom automation system designed to optimize attendance tracking, lecture scheduling, and real-time communication between students and faculty.
@@ -24,11 +28,7 @@ Cloud Services: Firebase for real-time notifications
 
 ✅ Secure Role-Based Access – Admin, Faculty, and Student login system.
 
-📚 Download Full Project: Google Drive Link
-
 🛠️ Installation Guide
-
-📚 Download Full Project: 
 
 1️⃣ Clone the Repository
 
